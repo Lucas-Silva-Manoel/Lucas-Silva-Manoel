@@ -1,3 +1,19 @@
+
+<!-- Header animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2A0635&height=180&section=header&text=Lucas%20Silva%20Manoel&fontSize=70&fontColor=FFD54A&fontAlignY=35&animation=scaleIn" alt="header" />
+</p>
+
+<!-- Texto animado digitando -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=FFD54A&center=true&vCenter=true&width=600&lines=Programador+Back-End;Apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+perfil!🚀" alt="Typing SVG" />
+</p>
+
+</p>
+
+<!-- Texto animado digitando -->
+
+</p>
 <!-- Banner animado -->
 <h1 align="center">
   <svg width="100%" height="100">
@@ -20,12 +36,13 @@
 
 ---
 
+
 <!-- Habilidades com destaque -->
 ## <span style="color:#FFD54A">🚀 Minhas Habilidades</span>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-2A0635?style=for-the-badge&logo=node.js&logoColor=FFD54A" />
-  <img src="https://img.shields.io/badge/Java-652C7A?style=for-the-badge&logo=java&logoColor=FFD54A" />
+  <img src="https://img.shields.io/badge/JavaScript-652C7A?style=for-the-badge&logo=javascript&logoColor=FFD54A" />
   <img src="https://img.shields.io/badge/PostgreSQL-8E4DAE?style=for-the-badge&logo=postgresql&logoColor=FFD54A" />
   <img src="https://img.shields.io/badge/Docker-D6B9E6?style=for-the-badge&logo=docker&logoColor=2A0635" />
 </div>
