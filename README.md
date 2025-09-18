@@ -4,7 +4,7 @@
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
       font-family="monospace" font-size="28" fill="#FFD54A">
       <animate attributeName="fill" values="#FFD54A;#D6B9E6;#FFD54A" dur="3s" repeatCount="indefinite"/>
-      Matheu Lobo — Programador Back-End
+      Lucas Silva Manoel — Programador Back-End
     </text>
   </svg>
 </h1>
